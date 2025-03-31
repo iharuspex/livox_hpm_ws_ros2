@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+      "ms-vscode.cpptools-extension-pack",
+      "ms-vscode.cmake-tools",
+      "xaver.clang-format",
+      "doi.fileheadercomment",
+      "ms-iot.vscode-ros",
+      "shardulm94.trailing-spaces",
+      "jeff-hykin.better-cpp-syntax",
+      "natqe.reload"
+  ]
+}
