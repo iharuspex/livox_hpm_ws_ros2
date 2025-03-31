@@ -1,0 +1,9 @@
+[submodule "src/nmea_navsat_driver"]
+	path = src/nmea_navsat_driver
+	url = git@github.com:iharuspex/nmea_navsat_driver.git
+[submodule "src/livox_mapping_case_ros2"]
+	path = src/livox_mapping_case_ros2
+	url = git@github.com:iharuspex/livox_mapping_case_ros2.git
+[submodule "src/livox_mapping_ros2"]
+	path = src/livox_mapping_ros2
+	url = git@github.com:iharuspex/livox_mapping_ros2.git
