@@ -3,6 +3,7 @@ install/
 log/
 
 __pycache__/
+.cache/
 
 *.las
 *~
