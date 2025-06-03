@@ -7,3 +7,6 @@
 [submodule "src/livox_mapping_ros2"]
 	path = src/livox_mapping_ros2
 	url = git@github.com:iharuspex/livox_mapping_ros2.git
+[submodule "src/pihatel_ros2_driver"]
+	path = src/pihatel_ros2_driver
+	url = git@github.com:iharuspex/pihatel_ros2_driver.git
