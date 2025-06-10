@@ -54,10 +54,10 @@
           "problemMatcher": "$gcc"
       },
       {
-          "label": "source-humble",
+          "label": "source-ros",
           "detail": "Sources the current workspace with bash shell",
           "type": "shell",
-          "command": "source ${workspaceFolder}/install/setup.bash && printenv > ${workspaceFolder}/local_humble_ws.env",
+          "command": "source ${workspaceFolder}/install/setup.bash && printenv > ${workspaceFolder}/local_ws.env",
           "group": {
               "kind": "build",
               "isDefault": true

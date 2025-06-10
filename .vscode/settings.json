@@ -3,7 +3,7 @@
     "editor.rulers": [
         100
     ],
-    "ros.distro": "humble",
+    "ros.distro": "jazzy",
     "search.exclude": {
         "**/build": true,
         "**/install": true,
@@ -16,11 +16,11 @@
     },
 
     "python.autoComplete.extraPaths": [
-        "/opt/ros/humble/lib/python3.10/site-packages/"
+        "/opt/ros/jazzy/lib/python3.12/site-packages/"
     ],
     "python.envFile": "${workspaceFolder}/.env",
     "python.analysis.extraPaths": [
-        "/opt/ros/humble/lib/python3.10/site-packages/"
+        "/opt/ros/jazzy/lib/python3.12/site-packages/"
     ],
     "python.analysis.typeCheckingMode": "basic",
     "python.formatting.provider": "black",
@@ -101,5 +101,6 @@
         "valarray": "cpp",
         "variant": "cpp"
     },
-    "ros.rosSetupScript": "${workspaceFolder}/install/setup.bash"
+    "ros.rosSetupScript": "${workspaceFolder}/install/setup.bash",
+    "cmake.sourceDirectory": "/home/haruspex/projects/ros/ws_livox/src/livox_interfaces"
 }

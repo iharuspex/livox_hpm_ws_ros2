@@ -1,8 +1,10 @@
 #!/bin/bash
 
+source install/setup.bash
+
 ctrl_c () {
     echo "Ctrl + C"
-} 
+}
 
 trap 'ctrl_c' SIGINT
 
